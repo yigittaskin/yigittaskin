@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>💼 I'm currently working on @Jotform<br>📚 I'm currently learning Frontend tools..<br>✨ Visit my codepen page to see magical designs</p>
+<p align="left">✨ Creating bugs since 2002<br>💼 I'm currently working on @Jotform<br>📚 I'm currently learning Frontend tools..<br>✨ Visit my Codepen page to see magical designs -> Codepen[https://codepen.io/taskinyigit/pens/public]</p>
 
 ###
 
