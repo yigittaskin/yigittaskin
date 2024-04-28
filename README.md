@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>💼 I'm currently working on @Jotform<br>📚 I'm currently learning Frontend tools...</p>
+<p align="left">✨ Creating bugs since 2002<br>💼 I'm currently working on @Jotform<br>📚 I'm currently learning Frontend tools..<br>✨ Visit my codepen page to see magical designs</p>
 
 ###
 
