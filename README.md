@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yiğit and I'm a Frontend/UI Developer...</p>
+<p align="left">My name is Yiğit and I'm a Software Developer...</p>
 
 ###
 
